@@ -1,5 +1,7 @@
 # DouYin_control
 通过抖音直播弹幕实现对电脑或游戏的控制。
+2023-05-24    如果弹幕抓取失败，请自行前往：https://github.com/HaoDong108/DouyinBarrageGrab   下载罪行的弹幕可执行文件WssBarrageService.exe
+
 ## 一、功能介绍
 
 - 1、实时抓取抖音直播间的弹幕，支持网页端的直播，支持自己用直播伴侣开的直播
@@ -11,7 +13,7 @@
 记得安装依赖哈：pip3 install -r  requirements.txt
 
 启动方法三步走：
-
+-------------------------如果弹幕抓取失败，请自行前往：https://github.com/HaoDong108/DouyinBarrageGrab   下载最新的弹幕可执行文件-------------------
 - 1、首先打开目录下的WssBarrageService.exe，运行，该程序是抓取抖音弹幕的
 - 2、启动  get_message.py   ，来将我们需要的弹幕推进 redis
 - 3、运行  consumer.py  ，该脚本会根据上一步推送过来的弹幕，来执行相应的指令
