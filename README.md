@@ -1,6 +1,7 @@
 # DouYin_control
 通过抖音直播弹幕实现对电脑或游戏的控制。
-2023-05-24    如果弹幕抓取失败，请自行前往：https://github.com/HaoDong108/DouyinBarrageGrab   下载罪行的弹幕可执行文件WssBarrageService.exe
+
+2023-05-24    如果弹幕抓取失败，请自行前往：https://github.com/HaoDong108/DouyinBarrageGrab   下载最新的弹幕可执行文件WssBarrageService.exe
 
 ## 一、功能介绍
 
